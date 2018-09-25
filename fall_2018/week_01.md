@@ -8,7 +8,7 @@ I plan to write the docs for imcoming data and figure out how to change and fetc
 
 ## Anything Blocking?
 
-- I am a bit of struggle on how to let user add courses without add a new view. I need to draw a flowchart to help me out.
+- I am struggling on how to let user add courses without add a new view. I need to draw a flowchart to help me out.
 - The data source is not realiable and by now there is no way to get these data unless human beings involve. SIS and Catalog are inaccruate.
 
 
@@ -17,5 +17,5 @@ I plan to write the docs for imcoming data and figure out how to change and fetc
 
 
 - Keep in touch with YACS on how to solve this issue
-- Maybe use canvas for flexible interaction (like opencircuit)? I have no idea how to do this.
+- Maybe use canvas for flexible interaction (like [opencircuits](https://rcos.io/projects/leonmontealegre/opencircuits/profile))? I have no idea how to achieve this.
 
