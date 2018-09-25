@@ -1,22 +1,21 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+I have finished working on the foundation of the Organizer. Our team choose Vue.js + Bootstrap for the frontend and Python for the web crawler. I also set up CI for our repo so that the beta release would be automatically generated on every commit.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+I plan to write the docs for imcoming data and figure out how to change and fetch data without a real backend, as well as build up a usable dragging list. 
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
+- I am a bit of struggle on how to let user add courses without add a new view. I need to draw a flowchart to help me out.
+- The data source is not realiable and by now there is no way to get these data unless human beings involve. SIS and Catalog are inaccruate.
 
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+
+- Keep in touch with YACS on how to solve this issue
+- Maybe use canvas for flexible interaction (like opencircuit)? I have no idea how to do this.
+
