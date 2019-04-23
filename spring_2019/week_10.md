@@ -6,6 +6,8 @@ Basic business (Join/Create) Event finished. (At least we are OK to do a short d
 
 Continuing working on HandsUp and the slides for presentation.
 
+Also, we are in the half way building our wiki page
+
 ## Anything Blocking?
 
 It is my first time teaching and it looks like this project is still a bit of hard to freshman :(
